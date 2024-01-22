@@ -13,9 +13,9 @@ class Device{
 
 class Program{
     static void Main(){
-        Employee emp=new Employee();
+        Device deviceObj=new Device();
         List<string> errors;
-        bool isValid=ObjectValidator.Validate(emp,out List<string> errors);
+        bool isValid=ObjectValidator.Validate(deviceObj,out List<string> errors);
         if(!isValid){
             foreach (string item in errors)
             {
