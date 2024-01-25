@@ -19,6 +19,6 @@ public class Program{
         stringItems.Add(2,"300");
         stringItems.Add(3,"400");
     string  itemValue=stringItems[3];
-        System.Console.WriteLine($"Total Number Of Items in Array:{stringItems.Count} , Value:{itemValue} at index:2");
+        System.Console.WriteLine($"Total Number Of Items in Array:{stringItems.Count} , Value:{itemValue} at index:3");
     }
 }
