@@ -1,6 +1,6 @@
 # My Experience with the Event Aggregator Design Pattern
 
-During the third week of our intern training program at Zeiss, we were given a simple user story and tasked to come up with a system design, and its corresponding implementation in code, that satisfies all of the requirements. This article is about my original system design, the issues with the design, how the issues were addressed with the use of event aggregator design pattern, and my learning outcomes from the assignment.
+During the third week of our intern training program at ZEISS, we were given a simple user story and tasked to come up with a system design, and its corresponding implementation in code, that satisfies all of the requirements. This article is about my original system design, the issues with the design, how the issues were addressed with the use of event aggregator design pattern, and my learning outcomes from the assignment.
 
 ## User Story
 
